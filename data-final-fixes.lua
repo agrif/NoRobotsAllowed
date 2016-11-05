@@ -14,10 +14,7 @@
 
 -- fixme: remove just "robotics" + recursive prerequisites
 techs = {
-   "robotics",
-   "construction-robotics",
    "logistic-robotics",
-   "automated-construction",
    "character-logistic-slots-1",
    "character-logistic-trash-slots-1",
    "character-logistic-slots-2",
@@ -28,7 +25,6 @@ techs = {
    "worker-robots-speed-2",
    "character-logistic-trash-slots-2",
    "auto-character-logistic-trash-slots",
-   "personal-roboport-equipment",
    "worker-robots-storage-2",
    "character-logistic-slots-4",
    "worker-robots-storage-3",
